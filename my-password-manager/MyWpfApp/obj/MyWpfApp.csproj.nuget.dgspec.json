@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lukas\\myfirstc#projekts\\my-password-manager\\MyWpfApp\\MyWpfApp.csproj": {}
+    "c:\\Users\\Lukas\\myfirstc#projekts\\my-password-manager\\MyWpfApp\\MyWpfApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lukas\\myfirstc#projekts\\my-password-manager\\MyWpfApp\\MyWpfApp.csproj": {
+    "c:\\Users\\Lukas\\myfirstc#projekts\\my-password-manager\\MyWpfApp\\MyWpfApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lukas\\myfirstc#projekts\\my-password-manager\\MyWpfApp\\MyWpfApp.csproj",
+        "projectUniqueName": "c:\\Users\\Lukas\\myfirstc#projekts\\my-password-manager\\MyWpfApp\\MyWpfApp.csproj",
         "projectName": "MyWpfApp",
-        "projectPath": "C:\\Users\\Lukas\\myfirstc#projekts\\my-password-manager\\MyWpfApp\\MyWpfApp.csproj",
+        "projectPath": "c:\\Users\\Lukas\\myfirstc#projekts\\my-password-manager\\MyWpfApp\\MyWpfApp.csproj",
         "packagesPath": "C:\\Users\\Lukas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lukas\\myfirstc#projekts\\my-password-manager\\MyWpfApp\\obj\\",
+        "outputPath": "c:\\Users\\Lukas\\myfirstc#projekts\\my-password-manager\\MyWpfApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lukas\\AppData\\Roaming\\NuGet\\NuGet.Config"

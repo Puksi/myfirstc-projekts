@@ -75,3 +75,4 @@ c:\Users\Lukas\myfirstc#projekts\my-password-manager\MyWpfApp\obj\Debug\net5.0-w
 c:\Users\Lukas\myfirstc#projekts\my-password-manager\MyWpfApp\obj\Debug\net5.0-windows\MyWpfApp.pdb
 c:\Users\Lukas\myfirstc#projekts\my-password-manager\MyWpfApp\obj\Debug\net5.0-windows\MyWpfApp.genruntimeconfig.cache
 c:\Users\Lukas\myfirstc#projekts\my-password-manager\MyWpfApp\obj\Debug\net5.0-windows\ref\MyWpfApp.dll
+c:\Users\Lukas\myfirstc#projekts\my-password-manager\MyWpfApp\obj\Debug\net5.0-windows\MyWpfApp.sourcelink.json
