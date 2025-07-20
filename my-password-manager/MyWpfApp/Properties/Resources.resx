@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <data name="YourStringResourceName" xml:space="preserve">
+    <value>Your string resource value</value>
+  </data>
+  <data name="YourImageResourceName" xml:space="preserve">
+    <value>Your image resource value</value>
+  </data>
+</root>
